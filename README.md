@@ -10,4 +10,4 @@ Publications - Research papers that which have been published in journals
 
 Web Crawler - Web Crawler assignment to crawl the DailyMail.co.uk website where I learnt about website metadata, creation of search engines and page ranking algorithms
 
-Other Projects - Projects where I assisted and the code is confidential
+Other Projects - Projects where I assisted in development.
